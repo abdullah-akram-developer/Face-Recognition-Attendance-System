@@ -127,3 +127,23 @@ This project is for **personal or educational use only**.
 ---
 
 ⭐ **If you like this app, please give it a star on GitHub!**
+
+
+Each option triggers its corresponding function inside the `FacialAttendance` class.
+
+---
+
+## 🚀 Getting Started  
+
+### 🔧 Prerequisites  
+Make sure you have these installed:  
+- Python 3.8+  
+- OpenCV  
+- RetinaFace  
+- NumPy  
+- Pandas  
+
+```bash
+pip install opencv-python retina-face numpy pandas
+
+
