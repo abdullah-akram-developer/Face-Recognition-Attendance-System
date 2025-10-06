@@ -107,6 +107,8 @@ Make sure you have these installed:
 - NumPy  
 - Pandas  
 
+---
+
 ## 👨‍💻 Developer
 
 **Abdullah Akram**  
@@ -114,6 +116,13 @@ Make sure you have these installed:
 💻 Android & Web Developer  
 📧 [Email](mailto:m.abdullahakram01@gmail.com)  
 🔗 [GitHub](#) 
+
+---
+
+## 📄 License
+
+This project is for **personal or educational use only**.  
+© 2024 The Amazing Minds. All Rights Reserved.
 
 ---
 
